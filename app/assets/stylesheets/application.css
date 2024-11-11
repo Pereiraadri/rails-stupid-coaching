@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+#basic-addon2 {
+  background-color: #608BC1;
+  color: white;
+}
+
+.answer-div {
+  border-left: 6px solid;
+  border-color: rgb(200, 200, 200);
+  margin-left: 5px;
+}
+
+#answer {
+  background-color: #FFF7D1;
+}
